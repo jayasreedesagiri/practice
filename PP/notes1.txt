@@ -1,0 +1,4 @@
+anagram="two words formed by same characters "
+armstrong="sum of cubes of all the digits in a number , is equal to that number itself"
+palindrome="original string or number is equal to reverse of that string or number"
+prime="divisible by 1 and itself"

@@ -1,0 +1,13 @@
+#To convert integer into list:
+n=7835
+s=str(n)
+l=list(map(int,s))
+
+
+#to convert a list of integers to a number:
+
+l=[5,8,4,7]
+s=""
+for i in l:
+	s+=str(i)
+n=int(s)

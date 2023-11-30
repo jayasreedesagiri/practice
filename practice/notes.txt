@@ -1,0 +1,9 @@
+<a>=anchor tag=<a href=" ">name</a>(to link pages)
+<img src=" ">(to add images)
+<b>=bold
+<i>=italic
+<u>=underlined
+<br>=break
+<hr>=horizontal line
+<p>=paragraph(spaces not included)
+<pre>=spaces included
